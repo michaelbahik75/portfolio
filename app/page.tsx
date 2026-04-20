@@ -78,7 +78,7 @@ export default function Portfolio() {
               <div className="flex gap-4 mt-6">
                 {[
                   { icon: <FaGithub />, link: "https://github.com/michaelbahik75" },
-                  { icon: <FaLinkedin />, link: "linkedin.com/in/michaelbahik75" },
+                  { icon: <FaLinkedin />, link: "https://linkedin.com/in/michaelbahik75" },
                   { icon: <Mail />, link: "mailto:michaelbahik75@gmail.com" },
                 ].map((item, i) => (
                   <a
